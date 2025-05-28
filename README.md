@@ -1,6 +1,6 @@
 ## 駕照考試報名自動化腳本
 
-這個腳本使用 Puppeteer 自動化瀏覽器操作，用於查詢並自動報名監理服務網（https://www.mvdis.gov.tw/）上的駕照考試梯次。
+這個腳本使用 Puppeteer 自動化瀏覽器操作，用於查詢並自動報名監理服務網（https://www.mvdis.gov.tw/m3-emv-trn/exm/locations#gsc.tab=0）上的駕照考試梯次。
 
 ### 功能
 
